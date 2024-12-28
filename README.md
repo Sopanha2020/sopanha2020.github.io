@@ -14,7 +14,9 @@ Hello everyone, <br>
 My profile in brief:
 
 🤖 Passionate about artificial intelligence
+
 📈 Always looking for new knowledge
+
 🛠️ Excited to collaborate and innovate
 
 👉 If you are looking for a motivated and determined talent to join your team, do not hesitate to contact me. !<br>
