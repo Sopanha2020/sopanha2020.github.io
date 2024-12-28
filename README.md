@@ -5,7 +5,7 @@ Hello everyone, <br>
 
 🎓 I recently joined my RNCP level 6 certification (equivalent to bac +3) as a data analyst following my bootcamp training at Wild Code School. 
 
-🚀 I am currently looking for a company to do an AI project manager/Data engineer work-study program in the same school with a schedule of one week at school and 3 weeks in the company for a period of 15 months.
+🚀 I am currently looking for a company to do an Data & AI Engineer work-study program in the same school with a schedule of one week at school and 3 weeks in the company for a period of 15 months.
 
 💪 I am curious, creative, dynamic and ready to take on new challenges. ✨
 
