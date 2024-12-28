@@ -18,6 +18,7 @@ My profile in brief:
 🛠️ Excited to collaborate and innovate
 
 👉 If you are looking for a motivated and determined talent to join your team, do not hesitate to contact me. !<br>
+
 🎯 Objectif : Contribute to innovative projects and be part of a dynamic team to create a better future with AI. 🚀<br>
 
 🙏 Thank you and see you soon! 🌟<br>
@@ -29,7 +30,7 @@ My profile in brief:
   <h2>🛠️ Tools & Technologies</h2>
 </div>
 
-<div 
+<div align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="Azure SQL Database" width="50" height="50" />
@@ -46,7 +47,6 @@ My profile in brief:
   <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Trello_logo.svg" alt="Trello" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Airtable_Logo.svg" alt="Airtable" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt="Discord" width="50" height="50" />
-
 </div>
 
 
@@ -57,11 +57,6 @@ My profile in brief:
  </div>
   
 ![snake gif](https://github.com/victoria-1989/victoria-1989/blob/output/github-contribution-grid-snake.svg)
-
-<div align="center">
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoria-1989&show_icons=true&theme=tokyonight)
-  </div>
 
   ![](https://komarev.com/ghpvc/?username=victoria-1989&color=brightgreen)
   
