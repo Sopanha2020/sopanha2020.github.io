@@ -1,9 +1,9 @@
 # Hey, this is Sopanha ! 👋
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-Hello everyone !,<br>
+Hello everyone, <br>
 
-🎓 I recently obtained my RNCP level 6 certification (equivalent to bac +3) as a data analyst following my bootcamp training at Wild Code School. 
+🎓 I recently joined my RNCP level 6 certification (equivalent to bac +3) as a data analyst following my bootcamp training at Wild Code School. 
 
 🚀 I am currently looking for a company to do an AI project manager/Data engineer work-study program in the same school with a schedule of one week at school and 3 weeks in the company for a period of 15 months..
 
@@ -31,7 +31,7 @@ My profile in brief:
 </div>
 
 <div align="center"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="Azure SQL Database" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="50" height="50" />
@@ -47,6 +47,7 @@ My profile in brief:
   <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Trello_logo.svg" alt="Trello" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Airtable_Logo.svg" alt="Airtable" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt="Discord" width="50" height="50" />
+  
 </div>
 
 
