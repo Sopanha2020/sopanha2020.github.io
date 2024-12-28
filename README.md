@@ -1,32 +1,26 @@
-   <div align="center"><a href="https://www.linkedin.com/in/victoria-boyer2/" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://github.com/victoria-1989/portfolio" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Mon_Portfolio-37a779?style=for-the-badge" alt="Mon Portfolio">
-</a> </div>
-
-# Hey, this is Sopanha 👋
+# Hey, this is Sopanha ! 👋
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-Bonjour à tous,<br>
+Hello everyone !,<br>
 
-🎓 J’ai récemment obtenu ma certification RNCP niveau 6 (équivalent bac +3) de data analyst suite à ma formation en bootcamp à la Wild Code School. 
+🎓 I recently obtained my RNCP level 6 certification (equivalent to bac +3) as a data analyst following my bootcamp training at Wild Code School. 
 
-🚀 Je suis actuellement à la recherche d’une entreprise pour effectuer une alternance de chef de projet IA/ Data engineer dans cette même école avec un rythme d’une semaine en école et 3 semaines en entreprise pour une durée de 15 mois.
+🚀 I am currently looking for a company to do an AI project manager/Data engineer work-study program in the same school with a schedule of one week at school and 3 weeks in the company for a period of 15 months..
 
-💪 Je suis curieuse, créative, dynamique et prête à relever de nouveaux défis. ✨
+💪 I am curious, creative, dynamic and ready to take on new challenges. ✨
 
 <br>
-Mon profil en bref:
 
-🤖 Passionnée par l'intelligence artificielle
-📈 Toujours en quête de nouvelles connaissances
-🛠️ Enthousiaste à l'idée de collaborer et d'innover
+My profile in brief:
 
-👉 Si vous êtes à la recherche d'un talent motivé et déterminé pour rejoindre votre équipe, n'hésitez pas à me contacter !<br>
-🎯 Objectif : Contribuer à des projets innovants et faire partie d'une équipe dynamique pour créer un avenir meilleur avec l'IA. 🚀<br>
+🤖 Passionate about artificial intelligence
+📈 Always looking for new knowledge
+🛠️ Excited to collaborate and innovate
 
-🙏 Merci et à très bientôt ! 🌟<br>
+👉 If you are looking for a motivated and determined talent to join your team, do not hesitate to contact me. !<br>
+🎯 Objectif : Contribute to innovative projects and be part of a dynamic team to create a better future with AI. 🚀<br>
+
+🙏 Thank you and see you soon! 🌟<br>
 
 <div align="center">#DataAnalyst #AI #Alternance #Innovation #ReconversionProfessionnelle #ReadyForChallenges #LetsInnovate #CareerGoals #FutureLeader
 </div>
@@ -52,7 +46,6 @@ Mon profil en bref:
   <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Trello_logo.svg" alt="Trello" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Airtable_Logo.svg" alt="Airtable" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt="Discord" width="50" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="PowerPoint" width="50" height="50" />
 
 </div>
 
