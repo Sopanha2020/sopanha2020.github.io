@@ -59,7 +59,3 @@ My profile in brief:
  </div>
   
 ![snake gif](https://github.com/victoria-1989/victoria-1989/blob/output/github-contribution-grid-snake.svg)
-
-  ![](https://komarev.com/ghpvc/?username=victoria-1989&color=brightgreen)
-  
-  ![Codewars Badge](https://www.codewars.com/users/victoria-1989/badges/micro)
