@@ -1,35 +1,35 @@
-# Hey, this is Sopanha ! 👋
+# Hey, c'est Sopanha ! 👋
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-Hello everyone, <br>
+Bonjour à tous, <br>
 
-🎓 I recently joined my RNCP level 6 certification (equivalent to bac +3) as a data analyst following my bootcamp training at Wild Code School. 
+🎓 J'ai récemment obtenu ma certification RNCP de niveau 6 (équivalent à bac +3) en tant que data analyst suite à ma formation en bootcamp à la Wild Code School. 
 
-🚀 I am currently looking for a company to do an Data & AI Engineer work-study program in the same school with a schedule of one week at school and 3 weeks in the company for a period of 15 months.
+🚀 Je suis actuellement à la recherche d'une entreprise pour effectuer un programme d'alternance Data & AI Engineer dans la même école avec un planning d'une semaine à l'école et 3 semaines en entreprise sur une période de 15 mois.
 
-💪 I am curious, creative, dynamic and ready to take on new challenges. ✨
+💪 Je suis curieuse, créative, dynamique et prête à relever de nouveaux défis. ✨
 
 <br>
 
-My profile in brief:
+Mon profil en bref :
 
-🤖 Passionate about artificial intelligence
+🤖 Passionnée par l'intelligence artificielle
 
-📈 Always looking for new knowledge
+📈 Toujours à la recherche de nouvelles connaissances
 
-🛠️ Excited to collaborate and innovate
+🛠️ Enthousiaste à l'idée de collaborer et d'innover
 
-👉 If you are looking for a motivated and determined talent to join your team, do not hesitate to contact me. !<br>
+👉 Si vous recherchez un talent motivé et déterminé pour rejoindre votre équipe, n'hésitez pas à me contacter. !<br>
 
-🎯 Objectif : Contribute to innovative projects and be part of a dynamic team to create a better future with AI. 🚀<br>
+🎯 Objectif : Contribuer à des projets innovants et faire partie d'une équipe dynamique pour créer un meilleur avenir avec l'IA. 🚀<br>
 
-🙏 Thank you and see you soon! 🌟<br>
+🙏 Merci et à bientôt ! 🌟<br>
 
-<div align="center">#DataAnalyst #AI #Alternance #Innovation #ReconversionProfessionnelle #ReadyForChallenges #LetsInnovate #CareerGoals #FutureLeader
+<div align="center">#DataAnalyst #IA #Alternance #Innovation #ReconversionProfessionnelle #PretPourLesDefis #InnovonsEnsemble #ObjectifsDeCarriere #FuturLeader
 </div>
 
 <div align="center">
-  <h2>🛠️ Tools & Technologies</h2>
+  <h2>🛠️ Outils et technologies</h2>
 </div>
 
 <div align="center"> 
