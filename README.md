@@ -3,7 +3,7 @@
 
 Bonjour à tous, <br>
 
-🎓 J'ai rejoint  la formation en bootcamp à la Wild Code School. 
+🎓 J'ai rejoint  la formation en data analyst bootcamp à la Wild Code School. 
 
 🚀 Je suis actuellement à la recherche d'une entreprise pour effectuer un programme d'alternance Data & AI Engineer dans la même école avec un planning d'une semaine à l'école et 3 semaines en entreprise sur une période de 15 mois.
 
